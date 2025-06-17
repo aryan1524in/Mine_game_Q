@@ -66,8 +66,8 @@ pip install pygame
 
 # Run the game
 python mines_game.py
+```
 
----
+### Credits
 Built by Aryan Singh
-Credits
 Developed with Q Developer using Python and Pygame.
