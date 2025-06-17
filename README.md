@@ -69,5 +69,5 @@ python mines_game.py
 ```
 
 ### Credits
-Built by Aryan Singh
+Built by Aryan Singh <br>
 Developed with Q Developer using Python and Pygame.
