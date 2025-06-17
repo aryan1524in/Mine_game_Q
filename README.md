@@ -34,9 +34,9 @@ A fun and strategic 5x5 minesweeper-inspired game built using **Python** and **P
 ## 🖼️ Game Screenshots
 
 <p align="center">
-  <img src="screenshots/1.png" width="300"/>
-  <img src="screenshots/2.png" width="300"/>
-  <img src="screenshots/3.png" width="300"/>
+  <img src="Screenshots/1.png" width="300"/>
+  <img src="Screenshots/2.png" width="300"/>
+  <img src="Screenshots/3.png" width="300"/>
 </p>
 <br>
 > _Green tiles are safe, red tile = mine, and score is shown at the top._
